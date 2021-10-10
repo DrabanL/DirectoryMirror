@@ -2,4 +2,4 @@ general:
   sourceDirectory: "C:\\Fraps"
   destinationDirectory: "C:\\Fraps3"
   loopIntervalMS: 1000
-  maxConcurrentWorkers: 16
+  maxConcurrentWorkers: 0
